@@ -10,7 +10,8 @@ This repository is the central hub for the Infrastructure Guild's **work**. Here
 
 Stewards are the guardians and facilitators of this guild, not its managers. They are here to help unblock contributors, manage core credentials, and ensure our principles are upheld. They can help you craft a Formal Proposal for Zulip if needed.
 
-- [@burningtree](https://github.com/burningtree)
+- Tree ([@burningtree](https://github.com/burningtree))
+- Mf ([@debelg](https://github.com/debelg))
 
 Feel free to tag them in an Issue or PR if you need administrative help or guidance.
 
