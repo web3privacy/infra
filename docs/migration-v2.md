@@ -1,4 +1,4 @@
-# WIP Infrastructure 2.0
+# W3PN Infrastructure 2.0
 
 Goals:
 * Update our infra regarding current status
