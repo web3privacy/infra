@@ -72,4 +72,4 @@ We will use [Kopia](https://kopia.io/) or [BorgBackup](https://www.borgbackup.or
 - [ ] archive old repositories like for example: [`news`](https://github.com/web3privacy/news), [`h25ber`](https://github.com/web3privacy/h25ber), [`w3pnnowstore`](https://github.com/web3privacy/w3pnowstore), [`pagency`](https://github.com/web3privacy/pagency) etc.
 - [ ] update [Teams](https://github.com/orgs/web3privacy/teams) (= delete all current teams, add new ones)
 - [ ] update [People](https://github.com/orgs/web3privacy/people), so all members have access + remove non-members
-- [ ] only Stewards should be Owners
+- [ ] only Stewards + Infra Guild Stewards should be Owners
