@@ -30,9 +30,10 @@ TODO
 
 | Current Domain | New domain | Service | Hosted |
 | --- | --- | --- | --- |
-| [vault.web3privacy.info](https://vault.web3privacy.info) | `vault.w3pn.org` | Vaultwarden, password manager | Gwei.cz |
-| [status.web3privacy.info](https://status.web3privacy.info) | `status.w3pn.org` | Uptime Kuma, monitoring tool | Gwei.cz |
-| [n8n.web3privacy.info](https://n8n.web3privacy.info/) | `n8n.w3pn.org` | n8n, Workflow automatization | Mf |
+| [www.web3privacy.info](https://www.web3privacy.info) | `www.w3pn.org` | [Caddy](https://caddyserver.com/), webserver with automatic HTTPS | Gwei.cz |
+| [vault.web3privacy.info](https://vault.web3privacy.info) | `vault.w3pn.org` | [Vaultwarden](https://github.com/dani-garcia/vaultwarden), password manager | Gwei.cz |
+| [status.web3privacy.info](https://status.web3privacy.info) | `status.w3pn.org` | [Uptime Kuma](https://uptime.kuma.pet/), monitoring tool | Gwei.cz |
+| [n8n.web3privacy.info](https://n8n.web3privacy.info/) | `n8n.w3pn.org` | [n8n](https://n8n.io/), Workflow automatization | Mf |
 
 ### New services
 
@@ -51,3 +52,10 @@ TODO
 | `tor.w3pn.org` | [Tor relay](https://community.torproject.org/relay/) | |
 | `btcpay.w3pn.org` | [BTCPayServer](https://btcpayserver.org/) | |
 | `frp.w3pn.org` | [frp](https://github.com/fatedier/frp), fast reverse-proxy | |
+| `git.w3pn.org` | [Forgejo](https://forgejo.org/), git hosting | |
+| `auth.w3pn.org` | [Authentik](https://goauthentik.io/), authentification server, single sign-on (SSO) | |
+| `windmill.w3pn.org` | [Windmill](https://www.windmill.dev/), workflow engine | |
+
+## Backup
+
+We will use [Kopia](https://kopia.io/) or [BorgBackup](https://www.borgbackup.org/) & [Borgmatic](https://torsion.org/borgmatic/).
