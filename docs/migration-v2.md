@@ -66,3 +66,10 @@ TODO
 ## Backup
 
 We will use [Kopia](https://kopia.io/) or [BorgBackup](https://www.borgbackup.org/) & [Borgmatic](https://torsion.org/borgmatic/).
+
+## GitHub
+
+- [ ] archive old repositories like [`news`](https://github.com/web3privacy/news), [`h25ber`](https://github.com/web3privacy/h25ber) and another
+- [ ] update [Teams](https://github.com/orgs/web3privacy/teams) (= delete all current teams, add new ones)
+- [ ] update [People](https://github.com/orgs/web3privacy/people), so all members have access + remove non-members
+- [ ] only Stewards should be Owners
