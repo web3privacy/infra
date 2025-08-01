@@ -74,3 +74,4 @@ We will use [Kopia](https://kopia.io/) or [BorgBackup](https://www.borgbackup.or
 - [ ] update [People](https://github.com/orgs/web3privacy/people), so all members have access + remove non-members
 - [ ] only Stewards + Infra Guild Stewards should be Owners
 - [ ] update [`.github`](https://github.com/web3privacy/.github/blob/main/profile/README.md) & [`.github-private`](https://github.com/web3privacy/.github-private/blob/main/profile/README.md) repo and info in GitHub Organization
+  - for members: add info how to create and name new repo
