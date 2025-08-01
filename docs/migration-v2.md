@@ -37,10 +37,11 @@ TODO
 
 | Current Domain | New domain | Service | Current | Server |
 | --- | --- | --- | --- | --- |
-| [www.web3privacy.info](https://www.web3privacy.info) | `www.w3pn.org` | [Caddy](https://caddyserver.com/), webserver with automatic HTTPS | Gwei.cz | G |
 | [vault.web3privacy.info](https://vault.web3privacy.info) | `vault.w3pn.org` | [Vaultwarden](https://github.com/dani-garcia/vaultwarden), password manager | Gwei.cz | X |
 | [status.web3privacy.info](https://status.web3privacy.info) | `status.w3pn.org` | [Uptime Kuma](https://uptime.kuma.pet/), monitoring tool | Gwei.cz | X |
+| [www.web3privacy.info](https://www.web3privacy.info) | `www.w3pn.org` | [Caddy](https://caddyserver.com/), webserver with automatic HTTPS | Gwei.cz | G |
 | [n8n.web3privacy.info](https://n8n.web3privacy.info/) | `n8n.w3pn.org` | [n8n](https://n8n.io/), Workflow automatization | Mf | G |
+| [commons.w3pn.org](https://commons.w3pn.org/) | - | Zulip, Self-hosted forum/chat | PP0 | G |
 
 ### New services
 
@@ -48,7 +49,6 @@ TODO
 | --- | --- | --- |
 | `auth.w3pn.org` | [Authentik](https://goauthentik.io/), authentification server, single sign-on (SSO) | X |
 | `dns.w3pn.org` | [DNSCrypt](https://www.dnscrypt.org/), secure DNS resolver | X |
-| [commons.w3pn.org](https://commons.w3pn.org/) | Zulip, Self-hosted forum/chat | G |
 | `notes.w3pn.org` | [CodiMD](https://github.com/hackmdio/codimd), markdown notes | G |
 | `meet.w3pn.org` | [Jitsi](https://jitsi.org/), video conferencing software | G |
 | `windmill.w3pn.org` | [Windmill](https://www.windmill.dev/), workflow engine | G |
