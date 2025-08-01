@@ -21,6 +21,7 @@ Let's move DNS back to Git repo management so that multiple people can edit the 
 | X   | Secure  | 2 vCore, 2GB RAM, 40GB SSD | €5.43 | [Alwyzon](https://www.alwyzon.com/en), Austria |
 | G   | General | 4 vCore, 8GB RAM, 160GB SSD | €15.72 | [Alwyzon](https://www.alwyzon.com/en), Austria |
 | S   | Storage | 2 vCore, 4GB RAM, 2TB HDD | €14.51 | [Alwyzon](https://www.alwyzon.com/en), Austria |
+| B   | Backup  | ??? | ??? | ??? |
 
 TODO
 
