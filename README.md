@@ -1,4 +1,4 @@
-# W3PN Infrastructure Guild
+# W3PN Infrastructure Guild 🪚
 
 > The digital plumbers, electricians, and janitors of our ecosystem. We provide the resilient, reliable, and convivial platforms that empower our community to build and collaborate effectively.
 
